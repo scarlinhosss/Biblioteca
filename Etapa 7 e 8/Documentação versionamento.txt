@@ -1,0 +1,8 @@
+Primeiramente, adicionei o projeto do NetBeans à pasta local do repositório.
+Após isso, usei os seguintes comandos no git:
+git add .
+git commit -m "Adição do projeto"
+git push
+
+link do repositório:
+https://github.com/scarlinhosss/Biblioteca
